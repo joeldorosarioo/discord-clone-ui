@@ -10,6 +10,7 @@
 		<ServerButton hasNotification :mentions="32" />
 		<ServerButton />
 		<ServerButton hasNotification />
+
 		<ServerButton isSearchServer />
 		<ServerButton isExplore />
 		<ServerButton isDownload />
